@@ -21,7 +21,7 @@ e-zpassnh is a modern and user-friendly expense tracking system designed to simp
 ## Author
 **John Doe**  
 Email: johndoe@example.com  
-Website: [e-zpassnh](https://e-zpassnh.com)  
+Website: [e-zpassnh](https://www.ezpass-nh.com)
 
 John is a full-stack developer with a strong background in web development. He specializes in building scalable applications and has contributed to numerous open-source projects. Passionate about clean code and efficiency, he enjoys helping others grow in the tech field.
 
